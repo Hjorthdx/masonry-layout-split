@@ -1,0 +1,38 @@
+{
+    "name": "masonry-layout-split",
+    "version": "1.0.0",
+    "description": "Function for generating a masonry layout - useful as custom hook in react",
+    "main": "./useMasonryLayoutSplit.ts",
+    "bin": "./useMasonryLayoutSplit.ts",
+    "keywords": [
+        "masonry",
+        "masonry layout",
+        "masonry layout height",
+        "masonry typescript",
+        "masonry layout typescript",
+        "masonry layout height ts",
+        "masonry layout height typescript",
+        "masonry react",
+        "masonry react hook",
+        "masonry react hook typescript",
+        "masonry layout react hook ts",
+        "masonry layout react hook typescript",
+        "masonry react typescript",
+        "masonry typescript",
+        "dynamic height",
+        "column height dynamic",
+        "column height dynamic ts",
+        "column height dynamic typescript",
+        "typescript",
+        "ts"
+    ],
+    "author": "Søren Hjorth Boelskifte",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hjorthdx/Masonry-layout-split"
+    },
+    "bugs": {
+        "url": "https://github.com/Hjorthdx/Masonry-layout-split/issues"
+    },
+    "homepage": "https://github.com/Hjorthdx/Masonry-layout-split#readme"
+}
