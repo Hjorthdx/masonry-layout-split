@@ -1,6 +1,6 @@
 {
     "name": "masonry-layout-split",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "Function for generating a masonry layout - useful as custom hook in react",
     "main": "./useMasonryLayoutSplit.ts",
     "bin": "./useMasonryLayoutSplit.ts",
